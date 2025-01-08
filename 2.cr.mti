@@ -1,0 +1,136 @@
+C:/Users/cellu/Downloads/Lab78src/src/RegFile.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/RegFile.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Adder.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Adder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_M.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_M.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_M
+
+Top level modules:
+	Reg_M
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/JB_Unit.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/JB_Unit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module JB_Unit
+
+Top level modules:
+	JB_Unit
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/SRAM.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/SRAM.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Top.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Top.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/LD_Filter.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/LD_Filter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module LD_Filter
+
+Top level modules:
+	LD_Filter
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Decoder.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Decoder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_PC.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_PC.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_PC
+
+Top level modules:
+	Reg_PC
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_D.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_D.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_D
+
+Top level modules:
+	Reg_D
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/HazardDetectionUnit.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/HazardDetectionUnit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Mux.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Mux.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_E.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_E.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_E
+
+Top level modules:
+	Reg_E
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Imm_Ext.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Imm_Ext.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Imm_Ext
+
+Top level modules:
+	Imm_Ext
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv {0 {vlog -work work -vopt -sv C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Top
+-- Compiling module top_tb
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(67): Illegal declaration after the statement near line '65'.  Declarations must precede statements.  Look for stray semicolons.
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(71): near "$fclose": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(81): 'i' is an invalid type in Generate loop. Must be a genvar.
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(83): (vlog-2720) A generate begin/end pair has been found outside of generate construct.
+
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(85): near "$display": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(90): near "$display": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(97): near "$finish": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(102): 'err' already declared in this scope (top_tb).
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(103): 'num' already declared in this scope (top_tb).
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(105): (vlog-2720) A generate begin/end pair has been found outside of generate construct.
+
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(107): near "$display": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(126): near "$display": syntax error, unexpected SYSTEM_IDENTIFIER
+** Error: C:/Users/cellu/Downloads/Lab78src/src/top_tb.sv(144): near "endtask": syntax error, unexpected endtask
+
+} {5.0 9.0 10.0 16.0 17.0 20.0} {}} C:/Users/cellu/Downloads/Lab78src/top_tb.sv {0 {vlog -work work -vopt -sv C:/Users/cellu/Downloads/Lab78src/top_tb.sv
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Top
+** Error: ./src/Top.v(227): (vlog-2730) Undefined variable: 'alu_out_mem'.
+
+** Error: ./src/Top.v(302): 'alu_out_mem' already declared in this scope (Top).
+** Error: ./src/Top.v(303): 'rd_index_mem' already declared in this scope (Top).
+** Error: ./src/Top.v(305): 'wb_en_mem' already declared in this scope (Top).
+-- Compiling module top_tb
+
+} {4.0 5.0 6.0 9.0} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_W.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_W.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_W
+
+Top level modules:
+	Reg_W
+
+} {} {}}

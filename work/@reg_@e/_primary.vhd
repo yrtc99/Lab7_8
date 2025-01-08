@@ -1,0 +1,46 @@
+library verilog;
+use verilog.vl_types.all;
+entity Reg_E is
+    port(
+        clk             : in     vl_logic;
+        rst             : in     vl_logic;
+        stall           : in     vl_logic;
+        flush           : in     vl_logic;
+        pc_in           : in     vl_logic_vector(31 downto 0);
+        rs1_data_in     : in     vl_logic_vector(31 downto 0);
+        rs2_data_in     : in     vl_logic_vector(31 downto 0);
+        imm_in          : in     vl_logic_vector(31 downto 0);
+        rs1_index_in    : in     vl_logic_vector(4 downto 0);
+        rs2_index_in    : in     vl_logic_vector(4 downto 0);
+        rd_index_in     : in     vl_logic_vector(4 downto 0);
+        jb_op1_sel_in   : in     vl_logic;
+        alu_op1_sel_in  : in     vl_logic;
+        alu_op2_sel_in  : in     vl_logic;
+        jb_op2_sel_in   : in     vl_logic;
+        dm_w_en_in      : in     vl_logic_vector(3 downto 0);
+        im_w_en_in      : in     vl_logic_vector(3 downto 0);
+        wb_en_in        : in     vl_logic;
+        wb_sel_in       : in     vl_logic;
+        opcode_in       : in     vl_logic_vector(4 downto 0);
+        func3_in        : in     vl_logic_vector(2 downto 0);
+        func7_in        : in     vl_logic;
+        pc_out          : out    vl_logic_vector(31 downto 0);
+        rs1_data_out    : out    vl_logic_vector(31 downto 0);
+        rs2_data_out    : out    vl_logic_vector(31 downto 0);
+        imm_out         : out    vl_logic_vector(31 downto 0);
+        rs1_index_out   : out    vl_logic_vector(4 downto 0);
+        rs2_index_out   : out    vl_logic_vector(4 downto 0);
+        rd_index_out    : out    vl_logic_vector(4 downto 0);
+        jb_op1_sel_out  : out    vl_logic;
+        alu_op1_sel_out : out    vl_logic;
+        alu_op2_sel_out : out    vl_logic;
+        jb_op2_sel_out  : out    vl_logic;
+        dm_w_en_out     : out    vl_logic_vector(3 downto 0);
+        im_w_en_out     : out    vl_logic_vector(3 downto 0);
+        wb_en_out       : out    vl_logic;
+        wb_sel_out      : out    vl_logic;
+        opcode_out      : out    vl_logic_vector(4 downto 0);
+        func3_out       : out    vl_logic_vector(2 downto 0);
+        func7_out       : out    vl_logic
+    );
+end Reg_E;

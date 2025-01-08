@@ -1,0 +1,135 @@
+C:/Users/cellu/Downloads/Lab78src/src/RegFile.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/RegFile.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Adder.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Adder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_M.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_M.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_M
+
+Top level modules:
+	Reg_M
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/JB_Unit.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/JB_Unit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module JB_Unit
+
+Top level modules:
+	JB_Unit
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Top.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Top.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/SRAM.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/SRAM.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Controller.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Controller.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/LD_Filter.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/LD_Filter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module LD_Filter
+
+Top level modules:
+	LD_Filter
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Decoder.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Decoder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_PC.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_PC.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_PC
+
+Top level modules:
+	Reg_PC
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_D.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_D.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_D
+
+Top level modules:
+	Reg_D
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/HazardDetectionUnit.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/HazardDetectionUnit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_E.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_E.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_E
+
+Top level modules:
+	Reg_E
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/ALU.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Mux.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Mux.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/ForwardingUnit.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/ForwardingUnit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Imm_Ext.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Imm_Ext.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Imm_Ext
+
+Top level modules:
+	Imm_Ext
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/src/Reg_W.v {1 {vlog -work work -vopt C:/Users/cellu/Downloads/Lab78src/src/Reg_W.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Reg_W
+
+Top level modules:
+	Reg_W
+
+} {} {}} C:/Users/cellu/Downloads/Lab78src/top_tb.sv {1 {vlog -work work -vopt -sv C:/Users/cellu/Downloads/Lab78src/top_tb.sv
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Top
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
